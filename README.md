@@ -7,5 +7,5 @@ Useful Ubuntu Aliases, it can help Developers in Development and typing fast
 * you can use the next lines:
 ```
 git clone https://github.com/islam-abdelkader/ubuntu_helpers.git ~/ubuntu_helpers
-sudo echo '. ~/ubuntu_helpers/.aliases' >> ~/.bashrc
+sudo echo '. ~/ubuntu_helpers/aliases' >> ~/.bashrc
 ```
